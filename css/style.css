@@ -1,0 +1,40 @@
+body{
+	font-family: Lato;
+}
+
+
+
+
+
+h5{
+	font-weight: 500;
+	margin-left: 25px;
+	font-size:25px;
+	font-style: italic;
+	color:#404040;
+	font-weight: 700;
+	text-align: center;
+}
+
+
+p{
+	margin-left:40px;
+	margin-right:40px;
+	font-weight:500;
+	font-size:18px;
+	line-height:30px;
+	color:#303030;
+}
+
+code{
+
+	font-size:20px;
+	margin-left:40px;
+	padding: 5px;
+
+}
+
+span{
+	text-size:40px;
+
+}
